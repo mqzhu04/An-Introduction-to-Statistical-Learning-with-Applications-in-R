@@ -1,2 +1,2 @@
-# An-Introduction-to-Statistical-Learning-with-Applications-in-R-
+# An-Introduction-to-Statistical-Learning-with-Applications-in-R
 This repository
